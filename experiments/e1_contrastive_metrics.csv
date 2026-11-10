@@ -1,0 +1,7 @@
+query_id,target_unit_id,target_rank,competitor_unit_id,competitor_rank,target_retrieved_top5,target_beats_competitor
+CQ_001,UNIT_009,1,UNIT_010,2,True,True
+CQ_002,UNIT_018,1,UNIT_019,2,True,True
+CQ_003,UNIT_029,1,UNIT_027,2,True,True
+CQ_004,UNIT_034,1,UNIT_036,2,True,True
+CQ_005,UNIT_037,1,UNIT_038,2,True,True
+CQ_006,UNIT_040,1,UNIT_041,2,True,True

@@ -1,0 +1,5 @@
+question_type,queries,hit_at_1,hit_at_3,hit_at_5,mrr_at_5,ndcg_at_5
+context,12,1.0,1.0,1.0,1.0,1.0
+direct,17,0.8235294117647058,1.0,1.0,0.9117647058823529,0.9348699565126102
+hard_negative,2,1.0,1.0,1.0,1.0,1.0
+paraphrased,11,1.0,1.0,1.0,1.0,1.0

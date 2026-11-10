@@ -1,0 +1,43 @@
+query_id,question,question_type,e1_rank,e3_rank,rank_change,impact
+UNIT_001,What should a first aid provider do to help a person with asthma who is having difficulty breathing?,direct,1,1,0,unchanged
+UNIT_002,"When helping someone use their prescribed inhaled bronchodilator, which delivery method is preferred over using an inhaler by itself?",paraphrased,1,1,0,unchanged
+UNIT_003,"A person having an asthma attack needs their prescribed inhaled bronchodilator, but no commercial spacer is available. What alternative does the guideline consider reasonable?",context,1,1,0,unchanged
+UNIT_004,What immediate decontamination action is recommended after a chemical substance enters a person's eye?,direct,1,1,0,unchanged
+UNIT_005,"For chemical exposure to the eyes, what irrigation fluid and duration are recommended unless local guidelines specify otherwise?",paraphrased,1,1,0,unchanged
+UNIT_006,"While helping someone whose eye has been exposed to a caustic chemical, what precautions should be taken to prevent the substance from spreading to other people, areas, or the other eye?",context,1,1,0,unchanged
+UNIT_007,"For chemical eye exposure, if normal saline, Ringer's lactate, or commercial eyewash is immediately available, what does the guideline say about using these alternatives?",paraphrased,1,1,0,unchanged
+UNIT_008,What guidance should individuals follow when dealing with ocular exposure to industrial chemicals?,context,1,1,0,unchanged
+UNIT_009,"According to the guideline, when should a lay rescuer presume that an unresponsive adult is in cardiac arrest?",direct,1,1,0,unchanged
+UNIT_010,"During adult cardiac arrest assessment, how long should a healthcare professional check for a pulse before assuming cardiac arrest if no definite pulse is detected?",direct,1,2,1,deteriorated
+UNIT_011,What is the recommended role of lay rescuers in providing chest compressions when an adult is presumed to be in cardiac arrest?,paraphrased,1,1,0,unchanged
+UNIT_012,A lone responder witnesses an adult collapse and suspects cardiac arrest. What should the responder do first regarding activation of the emergency response system and starting CPR?,context,1,1,0,unchanged
+UNIT_013,A lone rescuer responding to an adult in cardiac arrest has a mobile phone available. What should the rescuer do to activate the emergency response system and begin CPR?,context,1,1,0,unchanged
+UNIT_014,"For a trained lay rescuer responding to an adult in cardiac arrest, what does the guideline say about providing both rescue breaths and chest compressions?",paraphrased,1,1,0,unchanged
+UNIT_015,"Two rescuers are preparing to perform CPR on an adult. If personal protective equipment is immediately available, what does the guideline say about using it?",context,1,1,0,unchanged
+UNIT_016,"When a lone healthcare professional begins resuscitation for an adult in cardiac arrest, what should the professional begin with?",direct,1,1,0,unchanged
+UNIT_017,"For adult cardiac arrest caused by either cardiac or noncardiac conditions, what does the guideline consider reasonable for healthcare professionals to provide?",paraphrased,1,1,0,unchanged
+UNIT_018,A trained rescuer is managing the airway of an adult with suspected head or neck trauma during cardiac arrest. Which airway-opening manoeuvre is recommended without extending the head?,context,1,1,0,unchanged
+UNIT_019,"If a jaw-thrust manoeuvre and airway adjunct insertion do not open the airway of an adult with head and neck trauma, which manoeuvre should a trained rescuer use next?",direct,1,2,1,deteriorated
+UNIT_020,"When assisting an adult with head and neck trauma, what should a lay rescuer avoid using for spinal motion restriction, and why?",context,1,1,0,unchanged
+UNIT_021,"During adult chest compressions, what approximate height should the person's torso be positioned at relative to the rescuer's knees?",direct,1,1,0,unchanged
+UNIT_022,"Where should the rescuer place their hands when performing chest compressions on an adult, and how should the hands be positioned?",direct,1,1,0,unchanged
+UNIT_023,An adult experiences cardiac arrest in a location where CPR can be performed safely and effectively. Where should resuscitation generally take place?,context,1,1,0,unchanged
+UNIT_024,What surface and body position are preferred for adult CPR when they can be achieved without delaying resuscitation?,paraphrased,1,1,0,unchanged
+UNIT_025,"How may a rescuer position their hands on the sternum when performing chest compressions on an adult, according to the guideline?",direct,2,2,0,unchanged
+UNIT_026,"An adult is found in cardiac arrest while lying prone, and turning the person supine is not possible safely. What CPR approach may be considered?",context,1,1,0,unchanged
+UNIT_027,What does the guideline recommend about the duration of pauses immediately before and after a defibrillation shock?,direct,1,1,0,unchanged
+UNIT_028,"During adult CPR rhythm checks, what is the maximum recommended duration for a pulse check before chest compressions should be restarted if no definite pulse is detected?",hard_negative,1,1,0,unchanged
+UNIT_029,"After an adult receives a defibrillation shock during cardiac arrest, should rescuers immediately resume chest compressions or pause to check the rhythm first?",hard_negative,1,1,0,unchanged
+UNIT_030,"When two or more rescuers are providing adult CPR, how often should they switch the person performing chest compressions?",direct,1,1,0,unchanged
+UNIT_031,"During adult CPR without an advanced airway, a rescuer needs to provide two breaths. What does the guideline recommend about pausing chest compressions and the duration of each breath?",context,1,1,0,unchanged
+UNIT_032,"What minimum chest compression fraction may be reasonable during adult CPR, according to the guideline?",paraphrased,1,1,0,unchanged
+UNIT_033,What does the guideline say about the evidence for pulse checks during adult CPR outside an advanced life support environment with invasive monitoring?,paraphrased,1,1,0,unchanged
+UNIT_034,"What compression depth is recommended for adults, including the minimum depth and the depth that rescuers should avoid exceeding?",direct,1,1,0,unchanged
+UNIT_035,What role may audiovisual feedback devices play in improving the quality of adult CPR in real time?,paraphrased,1,1,0,unchanged
+UNIT_036,What is the recommended chest compression rate per minute for adults receiving CPR?,direct,1,1,0,unchanged
+UNIT_037,"A rescuer is leaning on an adult's chest between compressions, preventing it from returning fully to its normal position. What does the guideline recommend about chest recoil?",context,1,1,0,unchanged
+UNIT_038,"During adult CPR, what relationship between the time spent compressing the chest and the time allowing it to recoil may be reasonable?",direct,1,1,0,unchanged
+UNIT_039,"When opening the airway of an adult in cardiac arrest, with no suspected cervical spine injury, which manoeuvre is recommended?",direct,1,1,0,unchanged
+UNIT_040,"For an adult in cardiac arrest with a suspected basal skull fracture or severe coagulopathy, which type of airway adjunct does the guideline prefer: an oropharyngeal or a nasopharyngeal airway?",direct,1,1,0,unchanged
+UNIT_041,"In an unconscious adult who has no cough or gag reflex, under what circumstances may using an airway adjunct be reasonable to facilitate ventilation?",paraphrased,1,1,0,unchanged
+UNIT_042,What does the guideline recommend about routinely applying cricoid pressure during adult cardiac arrest?,direct,1,1,0,unchanged

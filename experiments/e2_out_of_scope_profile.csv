@@ -1,0 +1,49 @@
+query_id,benchmark_section,question,question_type,relevant_unit_id,competing_unit_ids,retrieved_unit_id,rank,cosine_distance,retrieved_recommendation,source_document,printed_page,topic,population,situation,intervention
+OOS_001,out_of_scope,What is the recommended chest compression depth for an infant in cardiac arrest?,out_of_scope,,,UNIT_034,1,0.24466264247894287,"Recommendation: During manual CPR, rescuers should perform chest compressions to a depth of at least 2 inches, or 5 cm, for an average adult while avoiding excessive chest compression depths (>2.4 inches, or 6 cm).
+Population: Adults experiencing cardiac arrest
+Situation: Chest compression depth during manual CPR
+Intervention: Compress at least 2 inches while avoiding depths greater than 2.4 inches",lifesupport.pdf,S463,Chest Compression Depth and Rate in Adult Cardiac Arrest,Adults experiencing cardiac arrest,Chest compression depth during manual CPR,Compress at least 2 inches while avoiding depths greater than 2.4 inches
+OOS_002,out_of_scope,What is the recommended chest compression rate for a child in cardiac arrest?,out_of_scope,,,UNIT_036,1,0.2496645450592041,"Recommendation: For adults in cardiac arrest, it is reasonable for rescuers to perform chest compressions at a rate of 100 to 120/min.
+Population: Adults experiencing cardiac arrest
+Situation: Chest compression rate during CPR
+Intervention: Perform compressions at 100–120 per minute",lifesupport.pdf,S463,Chest Compression Depth and Rate in Adult Cardiac Arrest,Adults experiencing cardiac arrest,Chest compression rate during CPR,Perform compressions at 100–120 per minute
+OOS_003,out_of_scope,How should a rescuer manage a newborn who requires resuscitation immediately after birth?,out_of_scope,,,UNIT_010,1,0.3295603394508362,"Recommendation: If an adult is unconscious/unresponsive, with absent or abnormal breathing (ie, only gasping), the health care professional should check for a pulse for no more than 10 s and, if no definite pulse is felt, should assume the person is in cardiac arrest.
+Population: Unresponsive adult
+Situation: Absent or abnormal breathing
+Intervention: Healthcare professional checks pulse for no more than 10 seconds",lifesupport.pdf,S455,Recognition of Cardiac Arrest,Unresponsive adult,Absent or abnormal breathing,Healthcare professional checks pulse for no more than 10 seconds
+OOS_004,out_of_scope,What medication dose of epinephrine is recommended during adult cardiac arrest?,out_of_scope,,,UNIT_017,1,0.30017316341400146,"Recommendation: It is reasonable for health care professionals to perform chest compressions and ventilation for all adult patients in cardiac arrest from either a cardiac or noncardiac cause.
+Population: Adults in cardiac arrest
+Situation: Cardiac or noncardiac cause
+Intervention: Perform chest compressions and ventilation",lifesupport.pdf,S457,Initiation of Resuscitation: Health Care Professional,Adults in cardiac arrest,Cardiac or noncardiac cause,Perform chest compressions and ventilation
+OOS_005,out_of_scope,What is the recommended defibrillation energy setting for an adult using a biphasic defibrillator?,out_of_scope,,,UNIT_027,1,0.304507851600647,"Recommendation: In adult cardiac arrest, preshock and postshock pauses in chest compressions should be as short as possible.
+Population: Adults experiencing cardiac arrest
+Situation: Pauses before and after defibrillation
+Intervention: Minimize preshock and postshock compression pauses",lifesupport.pdf,S462,Chest Compression Fraction and Pauses,Adults experiencing cardiac arrest,Pauses before and after defibrillation,Minimize preshock and postshock compression pauses
+OOS_006,out_of_scope,What is the recommended treatment for a person experiencing a suspected stroke?,out_of_scope,,,UNIT_010,1,0.3542226552963257,"Recommendation: If an adult is unconscious/unresponsive, with absent or abnormal breathing (ie, only gasping), the health care professional should check for a pulse for no more than 10 s and, if no definite pulse is felt, should assume the person is in cardiac arrest.
+Population: Unresponsive adult
+Situation: Absent or abnormal breathing
+Intervention: Healthcare professional checks pulse for no more than 10 seconds",lifesupport.pdf,S455,Recognition of Cardiac Arrest,Unresponsive adult,Absent or abnormal breathing,Healthcare professional checks pulse for no more than 10 seconds
+OOS_007,out_of_scope,How should a first aid provider manage a person with a suspected fracture of the femur?,out_of_scope,,,UNIT_020,1,0.3784763813018799,"Recommendation: In the setting of an adult with head and neck trauma, lay rescuers should not use rigid cervical devices for spinal motion restriction because their use by untrained rescuers may be harmful.
+Population: Lay rescuers assisting adults with head and neck trauma
+Situation: Airway management by lay rescuers
+Intervention: Avoid rigid cervical devices for spinal motion restriction",lifesupport.pdf,S459,Opening the Airway After Head and Neck Trauma,Lay rescuers assisting adults with head and neck trauma,Airway management by lay rescuers,Avoid rigid cervical devices for spinal motion restriction
+OOS_008,out_of_scope,What is the recommended first aid treatment for a person with a snakebite?,out_of_scope,,,UNIT_001,1,0.36786019802093506,"Recommendation: First aid providers should assist a person with asthma who is having difficulty breathing with the administration of their own prescribed bronchodilators as needed.
+Population: Person with asthma
+Situation: Difficulty breathing
+Intervention: Assist with administration of prescribed bronchodilators",AHA_Guidelines.pdf,e533,Bronchodilators for Asthma With Shortness of Breath,Person with asthma,Difficulty breathing,Assist with administration of prescribed bronchodilators
+OOS_009,out_of_scope,What oxygen saturation target should be maintained in an adult receiving supplemental oxygen?,out_of_scope,,,UNIT_036,1,0.36292707920074463,"Recommendation: For adults in cardiac arrest, it is reasonable for rescuers to perform chest compressions at a rate of 100 to 120/min.
+Population: Adults experiencing cardiac arrest
+Situation: Chest compression rate during CPR
+Intervention: Perform compressions at 100–120 per minute",lifesupport.pdf,S463,Chest Compression Depth and Rate in Adult Cardiac Arrest,Adults experiencing cardiac arrest,Chest compression rate during CPR,Perform compressions at 100–120 per minute
+OOS_010,out_of_scope,What is the recommended treatment protocol for an adult experiencing anaphylaxis?,out_of_scope,,,UNIT_001,1,0.3293428421020508,"Recommendation: First aid providers should assist a person with asthma who is having difficulty breathing with the administration of their own prescribed bronchodilators as needed.
+Population: Person with asthma
+Situation: Difficulty breathing
+Intervention: Assist with administration of prescribed bronchodilators",AHA_Guidelines.pdf,e533,Bronchodilators for Asthma With Shortness of Breath,Person with asthma,Difficulty breathing,Assist with administration of prescribed bronchodilators
+OOS_011,out_of_scope,What is the recommended fluid resuscitation volume for an adult with severe dehydration?,out_of_scope,,,UNIT_036,1,0.3670918941497803,"Recommendation: For adults in cardiac arrest, it is reasonable for rescuers to perform chest compressions at a rate of 100 to 120/min.
+Population: Adults experiencing cardiac arrest
+Situation: Chest compression rate during CPR
+Intervention: Perform compressions at 100–120 per minute",lifesupport.pdf,S463,Chest Compression Depth and Rate in Adult Cardiac Arrest,Adults experiencing cardiac arrest,Chest compression rate during CPR,Perform compressions at 100–120 per minute
+OOS_012,out_of_scope,What is the recommended management of a person experiencing a generalized epileptic seizure?,out_of_scope,,,UNIT_020,1,0.35512685775756836,"Recommendation: In the setting of an adult with head and neck trauma, lay rescuers should not use rigid cervical devices for spinal motion restriction because their use by untrained rescuers may be harmful.
+Population: Lay rescuers assisting adults with head and neck trauma
+Situation: Airway management by lay rescuers
+Intervention: Avoid rigid cervical devices for spinal motion restriction",lifesupport.pdf,S459,Opening the Airway After Head and Neck Trauma,Lay rescuers assisting adults with head and neck trauma,Airway management by lay rescuers,Avoid rigid cervical devices for spinal motion restriction

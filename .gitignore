@@ -1,0 +1,22 @@
+# Secrets and credentials
+.env
+.env.*
+*token*
+*secret*
+credentials.json
+service-account*.json
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Runtime and temporary data
+cache/
+tmp/
+temp/
+*.log
+
+# Local environment
+.venv/
+venv/

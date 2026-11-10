@@ -1,0 +1,3 @@
+Comparison,Queries,Improved_for_E1,Tied,Worse_for_E1,E1_Hit_at_1,Other_Hit_at_1,Wilcoxon_statistic,Wilcoxon_p,McNemar_discordant_E1_only,McNemar_discordant_other_only,McNemar_exact_p
+E1_vs_E2,42,0,42,0,41,41,0.0,1.0,0,0,1.0
+E1_vs_E3,42,2,40,0,41,39,0.0,0.5,2,0,0.5
